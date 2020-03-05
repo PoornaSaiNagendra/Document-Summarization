@@ -1,2 +1,2 @@
-# Document-Summarization
-Summarizing the given text using NLTK library
+# Natural Language Processing
+Multi-Document Summarization using tf-idf, kmeans, silhouette analsis
